@@ -1,3 +1,4 @@
+package com.testing.jenkins;
 
 public class MainClass {
 
